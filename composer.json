@@ -22,7 +22,7 @@
     "php": "^5.6 || ^7",
     "guzzlehttp/guzzle": "^6.3",
     "andydune/pipeline": "^1",
-    "andydune/array-container": "dev-master",
+    "andydune/array-container": "^1",
     "andydune/conditional-execution": "^1"
   },
   "require-dev": {
